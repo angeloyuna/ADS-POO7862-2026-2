@@ -9,5 +9,6 @@
 - [Aula sobre Git e Markdown (2026-07-22)](aulas/2026-07-22)
 - [Aula sobre Java (2026-07-28)](aulas/2026-07-28)
 - [Aula sobre Vetores e Matrizes em Java (2026-08-04)](aulas/2026-08-04)
+- [Aula sobre Argumentos em Java e Gradle (2026-08-05)](aulas/2026-08-05)
 
 ## Laboratórios
