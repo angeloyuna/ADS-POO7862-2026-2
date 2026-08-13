@@ -12,3 +12,5 @@
 - [Aula sobre Argumentos em Java e Gradle (2026-08-05)](aulas/2026-08-05)
 
 ## Laboratórios
+
+- [Laboratório 2 (2026-08)](laboratorios/lab-02)
