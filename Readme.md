@@ -10,6 +10,9 @@
 - [Aula sobre Java (2026-07-28)](aulas/2026-07-28)
 - [Aula sobre Vetores e Matrizes em Java (2026-08-04)](aulas/2026-08-04)
 - [Aula sobre Argumentos em Java e Gradle (2026-08-05)](aulas/2026-08-05)
+- [Aula sobre Argumentos em Java (2026-08-11)](aulas/2026-08-11)
+- [Aula de Introdução a Orientação a Objetos em Java (2026-08-18)](aulas/2026-08-18)
+- [Aula de Exercícios de Orientação a Objetos em Java (2026-08-19)](aulas/2026-08-19)
 
 ## Laboratórios
 
