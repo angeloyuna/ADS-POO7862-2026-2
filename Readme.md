@@ -15,6 +15,7 @@
 - [Aula de Exercícios de Orientação a Objetos em Java (2026-08-19)](aulas/2026-08-19)
 - [Aula de Orientação a Objetos em Java (2026-08-25)](aulas/2026-08-25)
 - [Aula de Exercício de Orientação a Objetos em Java (2026-08-26)](aulas/2026-08-26)
+- [Aula de ArrayList em Java (2026-09-15)](aulas/2026-09-15)
 
 ## Laboratórios
 
