@@ -11,5 +11,4 @@ public class Aluno {
         this.email = email;
         this.endereco = endereco;
     }
-    
 }

@@ -9,7 +9,11 @@ public class App {
         // Associação do tipo Composição
         Aluno andy = new Aluno("Andy", "andy0123@gmail.com", new Endereco("Rua Trivial", "1223", "Bairro Trivial", "Cidade Trivial", "UF Trivial", "País Trivial", "CEP Trivial"));
 
-        Motor motorTurbina = new Motor("turbina", false);
-        Motor motorHelice = new Motor("helice", false);
+        // Associação do tipo Composição
+        Aviao aviaoTeste = new Aviao(2, 10, 500, "hélice", 4);
+    
+        // ERRO PARA INVESTIGAR: "this.motores" is null
+        aviaoTeste.mudarInterruptorAviao();
+
     }
 }

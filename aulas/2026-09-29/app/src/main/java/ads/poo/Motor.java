@@ -5,9 +5,9 @@ public class Motor {
     private String tipo;
     private boolean status;
     
-    public Motor(String tipo, boolean status) {
+    public Motor(String tipo) {
         this.tipo = tipo;
-        this.status = status;
+        this.status = false;
     }
 
     public void ligarMotor() {

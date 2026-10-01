@@ -18,6 +18,5 @@ public class Endereco {
         this.uf = uf;
         this.pais = pais;
         this.cep = cep;
-    }
-    
+    } 
 }
