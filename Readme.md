@@ -25,3 +25,4 @@
 
 - [Laboratório 2 (2026-08)](laboratorios/lab-02)
 - [Laboratório 4 (2026-09)](laboratorios/lab-04)
+- [Laboratório 5 (2026-10)](laboratorios/lab-05)
