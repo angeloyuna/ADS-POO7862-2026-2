@@ -21,6 +21,7 @@
 - [Associação e Diagramas UML de Classes em Java [2026-09-29]](aulas/2026-09-29)
 - [Associação e Diagramas UML de Classes em Java [2026-10-06]](aulas/2026-10-06)
 - [Herança em Java [2026-10-14]](aulas/2026-10-14)
+- [Exercícios de Herança em Java [2026-10-20]](aulas/2026-10-20)
 
 ## Laboratórios
 
