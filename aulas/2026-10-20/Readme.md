@@ -78,37 +78,49 @@ classDiagram
     direction LR
 
     class Veiculo {
-        - int velocidade
+        - int velocidadeAtual
         - int maxPassageiros
-        + acelerar() void 
+        - int capacidade
+        + acelerar(v: int) void
+        + frear(v: int) void 
     }
 
-    class Terreo {
+    class Terrestre {
+        - ArrayList~String~ terrenosAcessiveis
+    }
 
+    class Carro {
+        - String tipo
+    }
+
+    class Caminhao {
+        - boolean basculanteAberta
     }
 
     class Aereo {
-
+        - int maxAltitude
     }
 
     class Aquatico {
-
+        - boolean podeDescerSuperficie
     }
 
     class Aviao {
-
+        - String tipoDoMotor
+        + ativarFlap(nivel: int)
     }
 
     class Barco {
-
+        - boolean ancora
+        + lancarAncora() boolean
     }
 
-    Veiculo <|-- Terreo
+    Veiculo <|-- Terrestre
     Veiculo <|-- Aereo
     Veiculo <|-- Aquatico
 
-    Terreo <|-- Carro
-    Terreo <|-- Caminhao
+    Terrestre <|-- Carro
+    Terrestre <|-- Caminhao
 
     Aereo <|-- Aviao
 
