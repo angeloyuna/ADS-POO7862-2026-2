@@ -23,6 +23,7 @@
 - [Herança em Java [2026-10-14]](aulas/2026-10-14)
 - [Exercícios de Herança em Java [2026-10-20]](aulas/2026-10-20)
 - [Exercícios de Herança em Java [2026-10-21]](aulas/2026-10-21)
+- [Exercícios de Herança em Java [2026-10-27]](aulas/2026-10-27)
 
 ## Laboratórios
 
