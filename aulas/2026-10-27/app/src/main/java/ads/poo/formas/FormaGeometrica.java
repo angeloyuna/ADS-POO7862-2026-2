@@ -1,6 +1,6 @@
 package ads.poo.formas;
 
-public class FormaGeometrica {
+public abstract class FormaGeometrica {
     
     protected String corLinha;
     protected Ponto inicio;
@@ -10,7 +10,5 @@ public class FormaGeometrica {
         this.inicio = inicio;
     }
 
-    public String desenhar() {
-        return "";
-    }
+    public abstract String desenhar();
 }
