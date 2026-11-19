@@ -27,7 +27,8 @@
 - [Classes Abstratas, Interface, Polimorfismo [2026-11-10]](aulas/2026-11-10)
 	- [Modificações em Aula 2026-10-27](aulas/2026-10-27)
 	- [Modificações em Aula 2026-10-21](aulas/2026-10-21) 
-- [APIs Java: Enum e Tipos Genéricos [2026-11-17]](aulas/2026-11-17)
+- [APIs Java: Enum [2026-11-17]](aulas/2026-11-17)
+- [Exercício de APIs Java: Enum [2026-11-18]](aulas/2026-11-17)
 
 ## Laboratórios
 

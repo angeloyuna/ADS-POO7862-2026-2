@@ -1,4 +1,4 @@
-package ads.poo;
+package ads.poo.disciplinas;
 
 public enum DiaDaSemana {
     DOMINGO(1, "domingo"),
